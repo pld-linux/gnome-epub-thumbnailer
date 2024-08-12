@@ -1,12 +1,12 @@
 Summary:	GNOME thumbnailer for EPub and MOBI books
 Summary(pl.UTF-8):	Narzędzie GNOME do tworzenia miniaturek dla książek EPub oraz MOBI
 Name:		gnome-epub-thumbnailer
-Version:	1.7
+Version:	1.8
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications
-Source0:	https://download.gnome.org/sources/gnome-epub-thumbnailer/1.7/%{name}-%{version}.tar.xz
-# Source0-md5:	e77e7ae202ce5c73f50128aa4d02c16c
+Source0:	https://download.gnome.org/sources/gnome-epub-thumbnailer/1.8/%{name}-%{version}.tar.xz
+# Source0-md5:	137634a46ccef8492c3e1d9d1f1a7a7d
 URL:		https://gitlab.gnome.org/GNOME/gnome-epub-thumbnailer/
 BuildRequires:	gdk-pixbuf2-devel >= 2.0
 BuildRequires:	glib2-devel >= 2.0
